@@ -7,10 +7,10 @@ author:
   url:    http://www.cs.cmu.edu/~fmetze/interACT/Home.html
   avatar: https://avatars.githubusercontent.com/u/97170774
 
-# plugins:
-#   - jekyll-paginate
+plugins:
+  - jekyll-paginate
 
-# paginate: 2
+paginate: 4
 
 categories_path: /categories/
 tags_path: /tags/
