@@ -1,10 +1,10 @@
-title: Tao
-tagline: A content-first minimalist Jekyll theme for blogs
-description: This is a stupid demo site for the Jekyll theme Tao.
+title: Marietta Fischesser-Metze
+# tagline: A content-first minimalist Jekyll theme for blogs
+description: A brief overview.
 
 author:
-  name:   Song-Zi Vong
-  url:    https://twitter.com/vfvong
+  name:   Florian Metze
+  url:    http://www.cs.cmu.edu/~fmetze/interACT/Home.html
   avatar: https://avatars.githubusercontent.com/u/97170774
 
 plugins:
