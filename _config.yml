@@ -10,7 +10,7 @@ author:
 plugins:
   - jekyll-paginate
 
-paginate: 2
+# paginate: 2
 
 categories_path: /categories/
 tags_path: /tags/
